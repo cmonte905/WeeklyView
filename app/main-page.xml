@@ -1,0 +1,29 @@
+<Page loaded="pageLoaded">
+  <StackLayout>
+    <Label text="Weekly View" class="title"/>
+
+    <Label text= "Monday" class="WeeklyView" />
+		
+    <Label text= "Tuesday" class="WeeklyView" />
+    	<ListView classes= "{{ Classes }}" />
+    		<ListView.classTemplate>
+                <Label text="{{ name }}" horizontalAlignment="left" verticalAlignment="center"/>
+            </ListView.classTemplate>
+    <Label text= "Wednesday" class="WeeklyView" />
+    	<ListView classes= "{{ Classes }}" />
+    		<ListView.classTemplate>
+                <Label text="{{ name }}" horizontalAlignment="left" verticalAlignment="center"/>
+            </ListView.classTemplate>
+    <Label text= "Thursday" class="WeeklyView" />
+    	<ListView classes= "{{ Classes }}" />
+    		<ListView.classTemplate>
+                <Label text="{{ name }}" horizontalAlignment="left" verticalAlignment="center"/>
+            </ListView.classTemplate>
+    <Label text= "Friday" class="WeeklyView" />
+    	<ListView classes= "{{ Classes }}" />
+    		<ListView.classTemplate>
+                <Label text="{{ name }}" horizontalAlignment="left" verticalAlignment="center"/>
+            </ListView.classTemplate>
+
+  </StackLayout>
+</Page>

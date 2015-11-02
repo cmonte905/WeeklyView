@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-87fb370b11c2f9a632ff48ec781fd583fb5fec2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\pre-dexed\debug\classes-a5c47f1e658b8f59f0ceb02adb3554e2db7569f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\cesar\Documents\WeeklyView\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40373005d4576f2e18027bcb2460ba577ae3d4ea">
+        <dex dex="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\pre-dexed\debug\nativescript-fb8ccda91e39c19b5d50899b6f303b9f010c4487.jar" />
+    </item>
+    <item
+        jar="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\pre-dexed\debug\classes-8108a6a978c554b8e6ec52d5ebb59a43bf33bb8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\cesar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-783c6c61a94b3abe6df11656f8376f551f583306.jar" />
+    </item>
+    <item
+        jar="C:\Users\cesar\Documents\WeeklyView\platforms\android\libs\widgets.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dab3994e6354b233885a2834673e6fc968347762">
+        <dex dex="C:\Users\cesar\Documents\WeeklyView\platforms\android\build\intermediates\pre-dexed\debug\widgets-ca9211c82469436417d5fe0c39041dd62a56620d.jar" />
+    </item>
+
+</items>
